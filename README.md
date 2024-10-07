@@ -4,7 +4,6 @@
 
 This project involves analyzing a Kaggle dataset to predict daily bike rental counts using various environmental and temporal factors. The analysis leverages **H2O's AutoML** to explore different machine learning models, with an emphasis on model interpretability using tools such as **SHAP** and **LIME**. Key influencing factors such as temperature and year are identified, providing valuable insights into rental patterns. The study aims to balance model complexity with predictive accuracy.
 
-![AutoML Assignment](image.png)
 
 ## Business Question
 
