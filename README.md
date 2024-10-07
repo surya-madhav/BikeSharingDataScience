@@ -26,7 +26,7 @@ graph TD
     B -->|Yes| C[Node 3: Feature Selection]
     B -->|No| D[Fix Data]
     D --> C
-    C --> E[Node 4: Modeling (AutoML)]
+    C --> E[Node 4: Modeling - AutoML]
     E --> F[Node 5: Model Interpretability & Error Analysis]
     F --> G[Node 6: Reports & Visualization]
 
